@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://harborstar.world/homepage/">Homepage</a> |
+  <a href="https://harborstar.world">Homepage</a> |
   <a href="https://www.error666.top/post.html?slug=harborstar">Blog</a>
 </p>
 
